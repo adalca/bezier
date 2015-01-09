@@ -15,10 +15,8 @@ Current function support:
 
 Usage
 -----
-Each method has several helpful options, run `help +bezier` for more help.
-
-Run [`beziertest`](beziertest.m) for thorough analysis and complete examples.
-
+Each method has several helpful options, run `help +bezier` for more help. <br />
+Run [`beziertest`](beziertest.m) for thorough analysis and complete examples. <br />
 For quick use try the following:
 
 - plot of a 2D bezier curve:
