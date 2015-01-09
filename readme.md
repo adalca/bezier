@@ -17,11 +17,10 @@ Getting Started
 ---------------
 Quick evaluation of a 2D bezier curve and plotting:
 ```
-t = bezier.eval([1, 2; 5, 5]);
+t = bezier.eval([1, 2; 5, 5; 7, 4]);
 plot(t(:, 1), t(:, 2));
 ```
-
-[show result]	
+![github:can't display screenshot](/../screenshots/plotsimple.png?raw=true "Simple Plot")
 
 Draw a 2D bezier curve in a volume:
 ```
