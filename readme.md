@@ -8,15 +8,15 @@ dimension dim. Note that we use matlab matrix ordering, so the first dimension w
 treated as 'y' in the 2D case.
 
 Current function support: 
-- [+bezier/eval.m](`bezier.eval`) evaluate the curve at many points
-- [+bezier/draw.m](`bezier.draw`) draw the curve in a image or volume
-- [+bezier/view.m](`bezier.view`) visualize 2D or 3D bezier curves (even multiple curves in the same figure)
-- [+bezier/explore.m](`bezier.explore`) explore 2D bezier curves interactively
+- [`bezier.eval`](+bezier/eval.m) evaluate the curve at many points
+- [`bezier.draw`](+bezier/draw.m) draw the curve in a image or volume
+- [`bezier.view`](+bezier/view.m) visualize 2D or 3D bezier curves (even multiple curves in the same figure)
+- [`bezier.explore`](+bezier/explore.m) explore 2D bezier curves interactively
 
 Getting Started
 ---------------
 Each method has several helpful options, run `help +bezier` for more help
-Run [beziertest.m](`beziertest`) for thorough analysis and complete examples.
+Run [`beziertest`](beziertest.m) for thorough analysis and complete examples.
 For quick use try the following:
 
 - plot of a 2D bezier curve:
