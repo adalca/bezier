@@ -13,8 +13,8 @@ Current function support:
 - [`bezier.view`](+bezier/view.m) visualize 2D or 3D bezier curves (even multiple curves in the same figure)
 - [`bezier.explore`](+bezier/explore.m) explore 2D bezier curves interactively
 
-Getting Started
----------------
+Usage and Quick Start
+---------------------
 Each method has several helpful options, run `help +bezier` for more help
 Run [`beziertest`](beziertest.m) for thorough analysis and complete examples.
 For quick use try the following:
