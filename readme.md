@@ -16,8 +16,8 @@ Current function support:
 Getting Started
 ---------------
 Quick evaluation of a 2D bezier curve and plotting:
-    t = bezier.eval([1, 2; 5, 5]);
-    plot(t(:, 1), t(:, 2));
+> t = bezier.eval([1, 2; 5, 5]);
+> plot(t(:, 1), t(:, 2));
 
 [show result]	
 
