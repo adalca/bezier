@@ -56,7 +56,7 @@ function varargout = explore(varargin)
         inputs.currentFig = figure();
         axesh = imagesc(zeros(inputs.volSize));
         bgImg = getimage(axesh);
-        viewargins = [viewargins, 'currentFig', inputs.currentFig];
+        viewargins = {viewargins{:}, 'currentFig', inputs.currentFig};
         colormap gray;
         caxis([0, 1]);
         hold on;
