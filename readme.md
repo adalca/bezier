@@ -1,7 +1,7 @@
 Bezier Curves
 =============
 
-A package for ND bezier curves operations
+A matlab package for ND bezier curves operations
 
 A bezier curve is parametrized by controlPts - which is [N x dim] for N control points of
 dimension dim. Note that we use matlab matrix ordering, so the first dimension will be
