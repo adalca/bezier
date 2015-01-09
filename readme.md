@@ -39,7 +39,7 @@ Visualize a 3D curve directly:
 ```
 bezier.view([1, 2, 7; 5, 5, 9; 9, 9, 9]);
 ```
-![github:can't display screenshot](/../screenshots/view3D.png?raw=true "Simple Plot")
+![github:can't display screenshot](/../screenshots/view3d.png?raw=true "Simple Plot")
 
 Explore the curves:
 ```
