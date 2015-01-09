@@ -53,4 +53,4 @@ bezier.explore;
 
 Contact
 -------
-[Adrian V. Dalca](http://adalca.mit.edu)
+[Adrian Dalca](http://adalca.mit.edu)
