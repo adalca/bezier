@@ -7,7 +7,7 @@ A bezier curve is parametrized by controlPts - which is [N x dim] for N control 
 dimension dim. Note that we use matlab matrix ordering, so the first dimension will be
 treated as 'y' in the 2D case.
 
-Current function support: 
+Current function support:
 - [`bezier.eval`](+bezier/eval.m) evaluate the curve at many points
 - [`bezier.draw`](+bezier/draw.m) draw the curve in a image or volume
 - [`bezier.view`](+bezier/view.m) visualize 2D or 3D bezier curves (even multiple curves in the same figure)
@@ -16,7 +16,9 @@ Current function support:
 Usage
 -----
 Each method has several helpful options, run `help +bezier` for more help. <br />
-Run [`beziertest`](beziertest.m) for thorough examples. <br />
+Run [`beziertest`](beziertest.m) for thorough examples and to see the extent of possibilities. <br />
+
+### Usage - Quick Start
 For quick use try the following:
 
 - plot of a 2D bezier curve:
