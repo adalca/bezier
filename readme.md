@@ -13,6 +13,25 @@ Current function support:
 - [`bezier.view`](+bezier/view.m) visualize 2D or 3D bezier curves (even multiple curves in the same figure)
 - [`bezier.explore`](+bezier/explore.m) explore 2D bezier curves interactively
 
+Papers
+------
+If you find this code useful, please cite:
+
+Dalca, Adrian, et al.  
+*Segmentation of nerve bundles and ganglia in spine MRI using particle filters.*  
+MICCAI 2011
+
+```
+@inproceedings{dalca2011segmentation,
+  title={Segmentation of nerve bundles and ganglia in spine MRI using particle filters},
+  author={Dalca, Adrian and Danagoulian, Giovanna and Kikinis, Ron and Schmidt, Ehud and Golland, Polina},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={537--545},
+  year={2011},
+  organization={Springer}
+}
+```
+
 Usage
 -----
 Each method has several helpful options, run `help +bezier` for more help. <br />
