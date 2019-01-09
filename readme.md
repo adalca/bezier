@@ -15,10 +15,10 @@ Current function support:
 
 Papers
 ------
-If you find this code useful, please cite:
+If you find this code useful, please cite the following paper, for which the code was developed:
 
-Dalca, Adrian, et al.  
-*Segmentation of nerve bundles and ganglia in spine MRI using particle filters.*  
+[Adrian V. Dalca](http://www.mit.edu/~adalca), [Giovanna Danagoulian](http://www.spl.harvard.edu/pages/People/gdan), [Ron Kikinis](http://www.spl.harvard.edu/pages/People/kikinis), [Ehud Schmidt](https://www.linkedin.com/in/ehud-schmidt-b3925b8/), [Polina Golland](https://people.csail.mit.edu/polina/)  
+Segmentation of nerve bundles and ganglia in spine MRI using particle filters  
 MICCAI 2011
 
 ```
